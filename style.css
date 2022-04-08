@@ -1,0 +1,192 @@
+html, body{
+  margin: auto;
+  padding:0;
+  background-color:#000000;
+}
+
+#square{
+  display: inline-block;
+}
+
+#square1{
+  float:left;
+  width:4.5vw;
+  opacity:1;
+  margin: 0;
+  padding:0;
+  animation: mymove 5s infinite;
+  animation-delay: 5s;
+
+  }
+    
+ @keyframes mymove {
+  0%   {height: 20px; }
+  50% {height: 90px;}
+  100%   {height: 50px;}
+}
+
+
+
+#square2{
+  float:left;
+  width:6.5vw;
+   margin: 0;
+  padding:0;
+  animation: mymove2 8s infinite;
+  }
+
+#square3{
+  float:left;
+  width:7.5vw;
+  margin: 0;
+  padding:0;
+  animation: mymove3 8s infinite;
+  }
+    
+
+
+#square4{
+  float:left;
+  width:7vw;
+  opacity:1;
+  margin: 0;
+  padding:0;
+  animation: mymove4 8s infinite;
+  }
+
+#square5{
+  float:left;
+  width:6vw;
+   margin: 0;
+  padding:0;
+  animation: mymove5 8s infinite;
+  }
+
+#square6{
+  float:left;
+  width:4vw;
+  margin: 0;
+  padding:0;
+  animation: mymove6 4s infinite;
+  animation-delay: 3s;
+
+  }
+
+     @keyframes mymove6 {
+      0%   {height: 50px; }
+      50% {height: 100px;}
+      100%   {height: 50px;}
+}
+
+#square7{
+  float:left;
+  width:5vw;
+  margin: 0;
+  padding:0;
+  animation: mymove7 8s infinite;
+  }
+
+#square8{
+  float:left;
+  width:7vw;
+  margin: 0;
+  padding:0;
+  animation: mymove8 8s infinite;
+  }
+
+#square9{
+  float:left;
+  width:5.5vw;
+  margin: 0;
+  padding:0;
+  animation: mymove9 8s infinite;
+  }
+
+#square10{
+  float:left;
+  width:4.5vw;
+  opacity:1;
+  margin: 0;
+  padding:0;
+  animation: mymove10 8s infinite;
+  }
+
+#square11{
+  float:left;
+  width:6vw;
+   margin: 0;
+  padding:0;
+  animation: mymove11 8s infinite;
+  }
+
+#square12{
+  float:left;
+  width:6.5vw;
+  margin: 0;
+  padding:0;
+  animation: mymove12 8s infinite;
+  }
+
+#square13{
+  float:left;
+  width:7.5vw;
+  opacity:1;
+  margin: 0;
+  padding:0;
+  animation: mymove13 8s infinite;
+  }
+
+#square14{
+  float:left;
+  width:6.5vw;
+   margin: 0;
+  padding:0;
+  animation: mymove14 8s infinite;
+  }
+
+#square15{
+  float:left;
+  width:7.5vw;
+  margin: 0;
+  padding:0;
+  animation: mymove15 10s infinite;
+  animation-delay: 4s;
+
+  }
+
+    @keyframes mymove15 {
+      0%   {height: 10px; }
+      50%  {height: 120px;}
+      100% {height: 40px;}
+}
+
+#square16{
+  float:left;
+  width:4.5vw;
+  margin: 0;
+  padding:0;
+  animation: mymove16 8s infinite;
+  animation-delay: 2s;
+  }
+
+ @keyframes mymove16 {
+      0%   {height: 10px; }
+      50%  {height: 120px;}
+      100% {height: 40px;}
+}
+
+#square17{
+  float:left;
+  width:2.5vw;
+  margin: 0;
+  padding:0;
+  animation: mymove17 8s infinite;
+  }
+
+#square18{
+  float:left;
+  width:1.5vw;
+  margin: 0;
+  padding:0;
+  animation: mymove18 8s infinite;
+  }
